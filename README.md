@@ -6,12 +6,12 @@ In this project the churn behavior of telco customers is of interest. Different 
 Original dataset: https://www.kaggle.com/blastchar/telco-customer-churn
 
 #### Requirements:
-Jupyter Notebook
-Python 3
-NumPy
-Pandas
-Matplotlib.pyplot
-Seaborn
+Jupyter Notebook\
+Python 3\
+NumPy\
+Pandas\
+Matplotlib.pyplot\
+Seaborn\
 Sklearn
 
 #### Methods:
