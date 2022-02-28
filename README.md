@@ -16,20 +16,20 @@ Sklearn
 
 #### Methods:
 ###### Exploratory Data Analysis
-Identifying target and features
-Identifying and handling of missing values
-Type corrections
-Visualizations
+Identifying target and features\
+Identifying and handling of missing values\
+Type corrections\
+Visualizations\
 Dataset preparations
 
 ###### Classification
-Preprocessing: Standard-scaling
-Preprocessing: Train-test-split
-Defining a general GridSearchCV pipeline
-Defining a general metrics evaluation function
-RandomForestClassifier
-Gradient Boosted Tree Classifier
-Ada Boost Tree Classifier
-KNeighbors Classifier
-Suport Vector Classifier
+Preprocessing: Standard-scaling\
+Preprocessing: Train-test-split\
+Defining a general GridSearchCV pipeline\
+Defining a general metrics evaluation function\
+RandomForestClassifier\
+Gradient Boosted Tree Classifier\
+Ada Boost Tree Classifier\
+KNeighbors Classifier\
+Suport Vector Classifier\
 Final Model Decision
